@@ -1,0 +1,17 @@
+checkpoint/
+*.tar
+*.swp
+*.mp4
+*.npy
+*.jpg
+*.dat
+*.prof
+*.nvvp
+profilingData
+plotClassificationReport.py
+appData/
+testVideos/
+Myplots/
+UCFCrime/jpg/
+UCFCrime/CC/
+UCFCrime/compressedPICS/
