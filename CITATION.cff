@@ -1,0 +1,49 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Efficient Anomaly Recognition Using Surveillance
+  Videos
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Gulshan
+    family-names: Saleem
+    email: gulshnsaleem26@gmail.com
+    affiliation: >-
+      COMSATS University Islamabad (Lahore), 1.5 KM
+      Defence Road off Raiwind Road, Lahore Pakistan
+  - given-names: Usama
+    name-particle: Ijaz
+    family-names: Bajwa
+    email: usamabajwa@cuilahore.edu.pk
+    affiliation: 'COMSATS University Islamabad (Lahore), Pakistan'
+  - given-names: Rana Hammad
+    family-names: Raza
+    affiliation: >-
+      Electronics and Power Engineering Department,
+      Pakistan Navy Engineering College 8 (PNEC),
+      National University of Sciences and Technology
+      (NUST), Habib Ibrahim 9 Rehmatullah Road,
+      Karachi, Pakistan
+  - given-names: Fayez
+    family-names: Alqahtani
+    affiliation: >-
+      Software Engineering Department, College of
+      Computer and Information Sciences, King 11 Saud
+      University, Riyadh 12372, Saudi Arabia
+  - given-names: Amr
+    family-names: Tolba
+    affiliation: >-
+      Computer Science Department, Community College,
+      King Saud University, Riyadh 13 11437, Saudi
+      Arabia
+  - given-names: Feng
+    family-names: Xia
+    affiliation: >-
+      Institute of Innovation, Science and
+      Sustainability, Federation University
+      Australia, 15 Ballarat, VIC 3353, Australia
